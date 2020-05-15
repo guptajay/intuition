@@ -2,8 +2,6 @@
 > Are we even aware of our biases anymore? It needs to be changed.
 > If you look at this chart and are convinced your “extreme” source belongs in the middle, you just might be part of the problem.
 
-![News Bias](news_bias.jpg)
-
 **Perspective Bot** is a **Chrome Extension** where we can search for the news we see on the internet and get more context about it. Using Machine Learning algorithms like BERT (Bidirectional Encoder Representations from Transformers) and clustering, the bot can show **different perspectives about the news** with the most hits by pulling tweets from the last one week using the Twitter API. 
 
 ![Perspective Bot](perspectivebot.png)
