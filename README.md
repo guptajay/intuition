@@ -34,4 +34,4 @@ Our team built a pipeline based on the state-of-the-art BERT model with Twitter 
 
 ---
 
-> Built for iNTUition 6.0
+> Winners of iNTUition 6.0 in the 'Best Cloud Hack' category.
