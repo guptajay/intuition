@@ -18,8 +18,7 @@ Our team built a pipeline based on the state-of-the-art BERT model with Twitter 
 * The results obtained are **grouped by country** (obtained from **Google Maps API**), and shown on a website built using **BootStrap** where the user can gather more **context and perspective** as well as do further research and reading of the same. 
 
 ### Screenshots
-![Click](http://52.246.249.29:3030/public/screen3.jpg)
-![Webpage](http://52.246.249.29:3030/public/screen4.png)
+![Webpage](s2.png)
 
 ### Installation
 1. Download Google Chrome Extention from [here](https://github.com/slimechips/intuition/tree/master/chrome_ext).
